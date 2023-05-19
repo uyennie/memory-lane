@@ -14,14 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   variables:
     floatVariables: []
-    intVariables: []
+    intVariables:
+    - useVariable: 1
+      name: AllRubbish
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     boolVariables:
     - useVariable: 1
       name: isCollected
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 1
+      value: 0
     stringVariables: []
     vector2Variables: []
     vector3Variables: []
@@ -36,7 +42,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000
+    variableCategoryIDs: 000000000000000000000000
   events:
   - Prompt Interaction
   - Stop Prompting Interaction
