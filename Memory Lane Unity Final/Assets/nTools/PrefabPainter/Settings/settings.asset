@@ -1223,7 +1223,7 @@ MonoBehaviour:
       colorTag: 0
     - name: trees
       settings:
-        brushRadius: 3.6
+        brushRadius: 1.6
         brushSpacing: 0.22
         brushOverlapCheckMode: 1
         brushOverlapDistance: 3.67
