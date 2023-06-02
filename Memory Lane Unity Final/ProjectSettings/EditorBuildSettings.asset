@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Gallery 1.unity
     guid: 70ce40aac4c8d4567ab7c7624655343a
+  - enabled: 1
+    path: Assets/Scenes/Gallery 2.unity
+    guid: 4742213ebd3384508884a9b0ba8d4192
+  - enabled: 1
+    path: Assets/Scenes/BettyHouse 1.unity
+    guid: 0950fdbc44bd64b369407bf5c955c3ad
   m_configObjects: {}
