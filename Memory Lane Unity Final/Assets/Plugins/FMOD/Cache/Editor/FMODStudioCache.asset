@@ -53,7 +53,7 @@ MonoBehaviour:
   Parameters:
   - {fileID: 2048709199722240929}
   MinDistance: 0
-  MaxDistance: 4.4
+  MaxDistance: 0
   Length: 0
 --- !u!114 &-1521436798831550500
 MonoBehaviour:
@@ -135,7 +135,7 @@ MonoBehaviour:
   - {fileID: 6743150819016675304}
   StringsBanks:
   - {fileID: 5746268572396029085}
-  cacheTime: 638201111828883790
+  cacheTime: 638205600263224545
   cacheVersion: 131591
 --- !u!114 &2048709199722240929
 MonoBehaviour:
@@ -180,7 +180,7 @@ MonoBehaviour:
   Path: ../../sound/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638201111828883790
+  lastModified: 638205600263224545
   FileSizes:
   - Name: Desktop
     Value: 1032
@@ -200,7 +200,7 @@ MonoBehaviour:
   Path: ../../sound/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638201111828842347
+  lastModified: 638205600263195549
   FileSizes:
   - Name: Desktop
     Value: 80544
