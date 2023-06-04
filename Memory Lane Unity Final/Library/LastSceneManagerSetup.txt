@@ -1,17 +1,17 @@
 sceneSetups:
-- path: Assets/Scenes/BettyHouse 1.unity
+- path: Assets/Scenes/Gallery.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Gallery 2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Gallery 1.unity
   isLoaded: 0
   isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Gallery 3.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/BettyHouse.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/InteriorHouse.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
